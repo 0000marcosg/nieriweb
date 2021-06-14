@@ -1,2 +1,4 @@
 # nieriweb
-Test para web del nieripeso
+Landing inicial para $NIERI
+
+#### www.nieri.ml
